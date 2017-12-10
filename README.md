@@ -1,4 +1,4 @@
-# Library
+# Library图书馆管理系统
 
 这是一个采用SpringMVC架构的图书馆管理系统网站
 
